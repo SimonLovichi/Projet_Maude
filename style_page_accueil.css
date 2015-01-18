@@ -1,0 +1,172 @@
+header{
+	position: fixed;
+	background-color:#ffb0b6;
+	text-align: center;
+	width: 100%;
+	height: 20%;
+	display: block;
+	z-index: 1;
+}
+
+#logo {
+	width: 80px;
+	height: 80px;
+	position: relative;
+}
+
+ a{
+	position: relative;
+	width: 100%;
+	height: 15%;
+	font-family: pacifico;
+	font-size: 150%;
+	color:#a9314a;
+	padding : 20px;
+}
+
+h1 {
+	margin: auto;
+	font-family: pacifico;
+	text-align: center;
+	color: black;
+	z-index: 10;
+}
+
+#slider{
+	background-color: #a9314a;
+	height: 600px;
+	width: 100%
+}
+
+#fleche_gauche{
+	margin-left: 100px;
+	margin-top: 330px;
+	float: left;
+	height: 40px;
+	width: 40px;
+}
+
+#fleche_droite{
+	margin-right: 100px;
+	margin-top: 330px;
+	float: right;
+	height: 40px;
+	width: 40px;
+}
+
+#slider_content{
+	height: 550px;
+	width: 1150px;
+	margin-top: 40px;
+	margin-right: 400px;
+	margin-left: 250px;
+	
+}
+
+h2{
+	font-family: open sans; 
+}
+
+#photo_livre_slider{
+	height: 200px;
+	width: 150px;
+	float: left;
+	padding: 0 20 0 0px; 
+}
+
+.texte_livre_slider{
+	position: relative;
+	font-family: open sans;
+	font-size: 20px;
+	margin-right:80px; 
+}
+
+.rond{
+	float: left;
+	height: 20px;
+	width: 20px;
+	border-radius: 50px;
+	background-color: #ffb0b6;
+
+}
+
+#presentation{
+	background-color:#e6855b;
+	width: 100%;
+	height: 70%;
+}
+
+#photo_moi{
+	float: left;
+	width: 20%;
+	height: 50%;
+	position: relative;
+	margin-left: 80px;
+	padding: 20px; 
+}
+
+.presentationtexte{
+	position: relative;
+	font-family: open sans;
+	font-size: 20px;
+	margin-right:80px; 
+}
+
+#mesuivre{
+	text-align: center;
+	background-color:#814425;
+	width: 100%;
+	height: 50%;
+}
+
+.medias{
+	padding : 0 0 0 40px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	margin-top: 60px;
+}
+
+#footer{
+	background-color:#ff7a81;
+	width: 100%;
+	height: 50%;
+	text-align: center;
+}
+
+#contenu_footer{
+	margin-left: 450px;
+}
+
+.texte_footer {
+	font-family: open sans;
+	font-size: 14px;
+	color: black;
+}
+
+#footer_livres{
+	float: left;
+	padding: 20px;
+}
+
+#footer_films{
+	float: left;
+	padding: 20px;
+}
+
+#footer_photos{
+	float: left;
+	padding: 20px;
+}
+
+#footer_mes_creations{
+	float: left;
+	padding: 20px;
+}
+
+#footer_qui_suis_je{
+	float: left;
+	padding: 20px;
+}
